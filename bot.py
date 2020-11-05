@@ -7,13 +7,11 @@ from asyncio import sleep
 import requests
 import json
 
-"""
-This section has required info to connect to Wrike:
-api_version,
-Id of Wrike fodler,
-Url
-And your Permanent token for autharization
-"""
+#This section has required info to connect to Wrike:
+#api_version,
+#Id of Wrike fodler,
+#Url,
+#And your Permanent token for autharization,
 api_version = 4
 
 folder_id = <Wrike folder id>
